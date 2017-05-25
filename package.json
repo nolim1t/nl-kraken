@@ -1,0 +1,17 @@
+{
+  "name": "nl-kraken",
+  "version": "1.0.0",
+  "description": "My Kraken Node.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "21.co/nolim1t",
+  "license": "MIT",
+  "dependencies": {
+    "assign-obj-params": "^1.0.0",
+    "fuckingundefinedemptynull": "^1.0.0",
+    "obj-to-querystring": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
