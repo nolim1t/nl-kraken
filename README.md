@@ -1,5 +1,7 @@
 # Kraken API api
 
+[![npm version](https://badge.fury.io/js/nl-kraken.svg)](https://badge.fury.io/js/nl-kraken)
+
 ## About
 
 My own API Library for [Kraken](https://kraken.com). Reference library [here](https://www.kraken.com/en-us/help/api)
