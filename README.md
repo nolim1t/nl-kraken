@@ -9,7 +9,9 @@ My own API Library for [Kraken](https://kraken.com). Reference library [here](ht
 
 ## Installing
 
-Not available yet.
+```bash
+npm i nl-kraken
+```
 
 ## Contributing
 
